@@ -6,7 +6,7 @@ body {
 .top-navi {
   display: flex;
   font-family: "Libre Baskerville", serif;
-  padding: 20px;
+  padding: 10px;
   height: 80px;
   box-sizing: border-box;
   justify-content: space-between;
@@ -26,8 +26,13 @@ body {
   text-decoration: underline;
 }
 
+.top-navi .container-1 a{
+  padding: 5px;
+
+}
+
 .container-1{
-    width: 20px;
+  display: flex;
 }
 
 .img-header {

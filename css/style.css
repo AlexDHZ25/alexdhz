@@ -240,3 +240,16 @@ body {
         height: 550px;
       }
 }
+
+.el-form input{
+  width: 100%;
+}
+
+.el-form textarea{
+  width: 100%;
+}
+
+.el-form button{
+  align-items: center;
+  justify-content: center;
+}
